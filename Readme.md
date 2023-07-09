@@ -24,3 +24,15 @@
 - 公式自动编号
 - 图片自动编号
 - 表格自动编号
+
+## 待编辑
+
+[公式识别 (simpletex.cn)](https://www.simpletex.cn/ai/latex_ocr) 
+
+[word中使用mathtype插入公式编号出现Equation Chapter (Next) Section 1字样_Polaris luo的博客-CSDN博客](https://blog.csdn.net/qq_45655078/article/details/120997483) 
+
+[【MathType 7.4】公式分章节编号，实现（1-1）、（2-1）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Hi4y1N7t9/?vd_source=7ba34da14eeec4fe3bec67bca0c76d05) 
+
+[WPS中配置MathType教程（简单详细，亲测可用） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/492369639) 
+
+[WPS 配置MathType_wps mathtype_all~的博客-CSDN博客](https://blog.csdn.net/Bkhole/article/details/124477679) 

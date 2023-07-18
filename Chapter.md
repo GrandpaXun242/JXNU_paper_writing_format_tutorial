@@ -14,15 +14,15 @@
 
 1. 打开样式列表。点击图中小箭头，点击`显示更多样式`
 
-  <img src=".\assets\1689429699034.png" width="600">
+  <img src="./assets/1689429699034.png" width="600">
 
   侧边栏：`显示预览`选项看个人是否要打开。
 
-  <img src=".\assets\1689429859011.png" width="600">
+  <img src="./assets/1689429859011.png" width="600">
 
 2. 样式的使用。
 
-  <img src=".\assets\1689430164131.png" width="600">
+  <img src="./assets/1689430164131.png" width="600">
 
 ## 章节自动编号操作
 
@@ -32,15 +32,15 @@
 
    - 大纲级别对应的绑定了**目录结构**
 
-  <img src=".\assets\1689430801005.png" width="600">
+  <img src="./assets/1689430801005.png" width="600">
 
 2. 给标题绑定编号样式。
 
-  <img src=".\assets\1689432278911.png" width="600">
+  <img src="./assets/1689432278911.png" width="600">
 
-  <img src=".\assets\1689432429029.png" width="600">
+  <img src="./assets/1689432429029.png" width="600">
 
-  <img src=".\assets\1689432489312.png" width="600">
+  <img src="./assets/1689432489312.png" width="600">
 
 3. 用法:[样式使用](#基础概念)
 
@@ -50,22 +50,22 @@
 
 - 设置编号样式
 
-  <img src=".\assets\1689432590525.png" width="600">
+  <img src="./assets/1689432590525.png" width="600">
 
 -  应用样式
 
-  <img src=".\assets\1689434498401.png" width="600">
+  <img src="./assets/1689434498401.png" width="600">
 
-  <img src=".\assets\1689434618944.png" width="600">
+  <img src="./assets/1689434618944.png" width="600">
 
 ## 表格的自动编号
 > `表格表头样式`是事先创建的。参考[template](./JXNU_master_essay_template.docx)
 - 设置编号样式
 
-  <img src=".\assets\1689432651514.png" width="600">
+  <img src="./assets/1689432651514.png" width="600">
 
 - 应用样式[步骤](#图片的自动编号)
 ## 自动编号发生错误之后的调整方案
 - 先点击编号，手动点击降级。
 
-  <img src=".\assets\1689433636563.png" width="600">
+  <img src="./assets/1689433636563.png" width="600">

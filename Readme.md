@@ -10,7 +10,7 @@
 
 - 点击`文件`$\rightarrow$`选项`
 
-  <img src=".\assets\1689435056760.png" width="600">
+<img src="./assets/1689435056760.png" width="600">
 
 ## 奇偶页等问题
 
@@ -18,11 +18,11 @@
 
 > 奇数页分页符解释
 >
-> <img src=".\assets\1689435599241.png" width="600">
+> <img src="./assets/1689435599241.png" width="600">
 
 - **步骤**
 
-  <img src=".\assets\1689435408203.png" width="600">
+  <img src="./assets/1689435408203.png" width="600">
 
 ### 章节奇偶页
 - 必须为奇数页的章节
